@@ -6,9 +6,6 @@
 3,使用hadoop分析出用户最关心的前20个词组(统计,排序)
 4,使用word art词云展示结果
 
-分析结果如下(图片在data文件夹中):
-![image](https://github.com/littleteaknow/weLater/blob/master/data/%E5%90%8E%E6%9D%A5%E7%9A%84%E6%88%91%E4%BB%AC%E5%BD%B1%E8%AF%841.png)
-![image](https://github.com/littleteaknow/weLater/blob/master/data/%E5%90%8E%E6%9D%A5%E7%9A%84%E6%88%91%E4%BB%AC%E5%BD%B1%E8%AF%842.png)
-
+分析结果如下(图片在data文件夹中): 
 
 另外src中的tushu包是爬虫的参考代码,和本项目无关
